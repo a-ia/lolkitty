@@ -57,7 +57,7 @@ To display the gradient without animation, use:
 lolkitty --skip "dismanteling ur interwebz so u haz to play with me meow"
 ```
 ```bash
-echo "in ur cpuz playing gamez with your threadz meow" | lolkiity --skip
+echo "in ur cpuz playing gamez with ur threadz meow" | lolkiity --skip
 ```
 ```bash
 lolkitty input.txt --skip
