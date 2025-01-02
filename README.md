@@ -2,7 +2,7 @@
 
 **lolkitty** is a lightweight Bash script that outputs text into a rainbow gradient color. 
 It is a script I made for personal use, inspired by lolcat! :3 
-I will be revisiting this project therefore modifications and additions will be applied to script in the future.
+I will be revisiting this project therefore modifications and additions will be applied to the script in the future.
 
 ---
 
